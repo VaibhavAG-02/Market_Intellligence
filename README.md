@@ -86,30 +86,30 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-### Main Dashboard
-Real-time market data with live indicators and configuration options.
+### Real-Time Market Dashboard
+Live data from professional APIs with current prices and performance metrics.
 
-![Main Dashboard](screenshots/main-dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
-### Legal Disclaimer
-Comprehensive educational disclaimer displayed to all users.
+### Technical Analysis Suite
+RSI, MACD indicators and automatic pattern detection for any stock.
 
-![Legal Disclaimer](screenshots/disclaimer.png)
+![Technical Analysis](screenshots/technical-analysis.png)
 
-### Price Performance Analysis
-Multi-stock comparison with normalized performance charts.
+### Strategy Backtesting Arena
+Compare moving average and RSI strategies against buy & hold benchmark.
 
-![Price Performance](screenshots/price-performance.png)
+![Strategy Backtesting](screenshots/strategy-backtesting.png)
 
 ### Multi-Stock Analyzer
-Analyze multiple stocks simultaneously with strategy parameters.
+Analyze multiple stocks simultaneously with performance rankings and comparisons.
 
 ![Multi-Stock Analyzer](screenshots/multi-stock-analyzer.png)
 
-### Performance Comparison
-Compare performance across different stocks and strategies.
+### Monte Carlo Risk Simulator
+Run thousands of simulations to calculate Value at Risk and expected outcomes.
 
-![Performance Comparison](screenshots/performance-comparison.png)
+![Risk Simulator](screenshots/risk-simulator.png)
 
 ---
 
