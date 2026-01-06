@@ -86,7 +86,30 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-[Add your screenshots here]
+### Main Dashboard
+Real-time market data with live indicators and configuration options.
+
+![Main Dashboard](screenshots/main-dashboard.png)
+
+### Legal Disclaimer
+Comprehensive educational disclaimer displayed to all users.
+
+![Legal Disclaimer](screenshots/disclaimer.png)
+
+### Price Performance Analysis
+Multi-stock comparison with normalized performance charts.
+
+![Price Performance](screenshots/price-performance.png)
+
+### Multi-Stock Analyzer
+Analyze multiple stocks simultaneously with strategy parameters.
+
+![Multi-Stock Analyzer](screenshots/multi-stock-analyzer.png)
+
+### Performance Comparison
+Compare performance across different stocks and strategies.
+
+![Performance Comparison](screenshots/performance-comparison.png)
 
 ---
 
