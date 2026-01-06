@@ -236,6 +236,6 @@ Contributions are welcome! However, please ensure that:
 **© 2026 Market Intelligence Platform**  
 *For Educational Purposes Only • Not Financial Advice*
 
-[Read Full Disclaimer](LEGAL_DISCLAIMER.md) | [Report Issues](https://github.com/yourusername/market-intelligence/issues)
+[Read Full Disclaimer](LEGAL_DISCLAIMER.md) | [Report Issues](mailto:vaibhavag0207@gmail.com)
 
 </div>
