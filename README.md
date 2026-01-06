@@ -1,4 +1,4 @@
-# 🌙 Market Intelligence Platform
+# 📊 Market Intelligence Platform
 
 **Real-Time Stock Analysis • Strategy Backtesting • Risk Assessment**
 
