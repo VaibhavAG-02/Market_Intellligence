@@ -89,27 +89,27 @@ streamlit run app.py
 ### Real-Time Market Dashboard
 Live data from professional APIs with current prices and performance metrics.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Technical Analysis Suite
 RSI, MACD indicators and automatic pattern detection for any stock.
 
-![Technical Analysis](screenshots/technical-analysis.png)
+![Technical Analysis](technical-analysis.png)
 
 ### Strategy Backtesting Arena
 Compare moving average and RSI strategies against buy & hold benchmark.
 
-![Strategy Backtesting](screenshots/strategy-backtesting.png)
+![Strategy Backtesting](strategy-backtesting.png)
 
 ### Multi-Stock Analyzer
 Analyze multiple stocks simultaneously with performance rankings and comparisons.
 
-![Multi-Stock Analyzer](screenshots/multi-stock-analyzer.png)
+![Multi-Stock Analyzer](multi-stock-analyzer.png)
 
 ### Monte Carlo Risk Simulator
 Run thousands of simulations to calculate Value at Risk and expected outcomes.
 
-![Risk Simulator](screenshots/risk-simulator.png)
+![Risk Simulator](risk-simulator.png)
 
 ---
 
@@ -203,9 +203,9 @@ Contributions are welcome! However, please ensure that:
 
 ## 📞 Contact
 
-- **Email**: [your-email@example.com]
-- **GitHub**: [github.com/yourusername]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
+- **Email**: [vaibhavag0207@gmail.com]
+- **GitHub**: [github.com/VaibhavAG-02]
+- **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/vaibhav-sathe-115507194/]
 
 ---
 
