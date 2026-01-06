@@ -68,7 +68,7 @@ pip
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/market-intelligence.git
+git clone https://github.com/VaibhavAG-02/market-intelligence.git
 cd market-intelligence
 
 # Install dependencies
