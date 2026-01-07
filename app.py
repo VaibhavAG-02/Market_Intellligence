@@ -56,26 +56,12 @@ st.markdown("""
     .main {
         background: #0a0e27 !important;
         color: #ffffff !important;
-        padding-top: 0 !important;
     }
     
     .block-container {
-        padding: 1rem 1rem 2rem 1rem !important;
+        padding: 2rem 1rem !important;
         background: #0f1419 !important;
-        border-radius: 0 !important;
         max-width: 100% !important;
-        margin-top: 0 !important;
-    }
-    
-    /* Fix Streamlit Header Toolbar Overlap */
-    header[data-testid="stHeader"] {
-        background: transparent !important;
-    }
-    
-    /* Ensure disclaimer banner is visible */
-    .element-container:first-child {
-        margin-top: 0 !important;
-        padding-top: 0 !important;
     }
     
     /* Perfect Metric Cards - Clear & Sharp */
@@ -149,35 +135,10 @@ st.markdown("""
     [data-testid="stSidebar"] {
         background: #0f1419 !important;
         border-right: 1px solid rgba(139, 92, 246, 0.2) !important;
-        padding: 2rem 1rem !important;
     }
     
     [data-testid="stSidebar"] * {
         color: #ffffff !important;
-    }
-    
-    /* Fix Sidebar Text Overlap */
-    [data-testid="stSidebar"] .element-container {
-        margin-bottom: 1rem !important;
-    }
-    
-    [data-testid="stSidebar"] h3 {
-        margin-top: 1.5rem !important;
-        margin-bottom: 0.75rem !important;
-        clear: both !important;
-    }
-    
-    [data-testid="stSidebar"] .stTextInput > label,
-    [data-testid="stSidebar"] .stSelectbox > label {
-        display: block !important;
-        margin-bottom: 0.5rem !important;
-        clear: both !important;
-    }
-    
-    [data-testid="stSidebar"] .stTextInput > div,
-    [data-testid="stSidebar"] .stSelectbox > div {
-        margin-top: 0.5rem !important;
-        margin-bottom: 1rem !important;
     }
     
     [data-testid="stSidebar"] .stRadio > label {
@@ -186,7 +147,7 @@ st.markdown("""
         font-size: 1rem !important;
         margin-bottom: 0.75rem !important;
         display: block !important;
-        clear: both !important;
+    }
     }
     
     /* Clear Info Boxes */
@@ -468,27 +429,6 @@ st.markdown("""
     
     ::-webkit-scrollbar-thumb:hover {
         background: #8b5cf6 !important;
-    }
-    
-    /* CRITICAL: Fix Header Cropping */
-    .main .block-container {
-        padding-top: 3rem !important;
-        max-width: 100% !important;
-    }
-    
-    /* Ensure top disclaimer is never cropped */
-    section[data-testid="stAppViewContainer"] {
-        padding-top: 0 !important;
-    }
-    
-    section[data-testid="stAppViewContainer"] > div:first-child {
-        padding-top: 1rem !important;
-    }
-    
-    /* Fix Streamlit toolbar overlap */
-    header[data-testid="stHeader"] {
-        background-color: rgba(10, 14, 39, 0.8) !important;
-        backdrop-filter: blur(10px) !important;
     }
     </style>
 """, unsafe_allow_html=True)
